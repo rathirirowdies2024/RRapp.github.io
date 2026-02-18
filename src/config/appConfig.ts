@@ -1,4 +1,4 @@
 export const APP_CONFIG = {
-  // Option B: AI disabled on static hosting unless you add a secure endpoint later
-  AI_ENABLED: false
+  AI_ENABLED: true,
+  AI_ENDPOINT: "https://rr-ai-proxy.rathirirowdies2024.workers.dev"
 };
