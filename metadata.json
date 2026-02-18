@@ -1,0 +1,8 @@
+
+{
+  "name": "RRapp",
+  "description": "Premium High-Performance Blog Platform (RRapp.github.io) with Gemini AI and Supabase integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
