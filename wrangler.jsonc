@@ -1,0 +1,5 @@
+{
+  "name": "rr-ai-proxy",
+  "main": "worker/src/index.ts",
+  "compatibility_date": "2026-02-18"
+}
